@@ -1,6 +1,6 @@
 ![logo](https://github.com/B2Kumar03/B2Kumar03/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png?raw=true)
 <img src="https://www.bing.com/th/id/OGC.b8621d221ed49bf3bf0abcb7e7efee87?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&ehk=1pUq2QV7aTpjkq3DC6ewAWbipixbWFCWbd4Wso5U3WE%3d" alt="coding " width="400" align="right">
-<h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
+<h1 align="center">Hi 👋, I'm Bittu </h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b2kumar03&label=Profile%20views&color=0e75b6&style=flat" alt="b2kumar03" /> </p>
