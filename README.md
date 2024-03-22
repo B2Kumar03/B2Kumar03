@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Back-end node js ,HTTP ,Express etc**
 
-- 👨‍💻 All of my projects are available at [github](github](https://github.com/B2Kumar03?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/B2Kumar03?tab=repositories)
 
 - 📫 How to reach me **bk7355583@gmail.com**
 
