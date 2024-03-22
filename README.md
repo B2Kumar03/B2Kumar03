@@ -1,4 +1,5 @@
-![logo]([[https://github.com/B2Kumar03/B2Kumar03/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png?raw=true](https://avatars.githubusercontent.com/u/140134657?s=400&u=a075b94f21b9088d14b227c9f66169fccd872610&v=4])(https://github.com/B2Kumar03/project2Image/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20(1).png?raw=true)))
+![logo](https://github.com/B2Kumar03/B2Kumar03/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png?raw=true)
+(https://github.com/B2Kumar03/project2Image/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20(1).png?raw=true)))
 <img src="https://www.bing.com/th/id/OGC.b8621d221ed49bf3bf0abcb7e7efee87?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&ehk=1pUq2QV7aTpjkq3DC6ewAWbipixbWFCWbd4Wso5U3WE%3d" alt="coding " width="400" align="right">
 <h1 align="center">Hi 👋, I'm Bittu </h1>
 <p align="center">Diligent front-end developer with robust HTML, CSS,JavaScript and react expertise. Proficient in Git and DOM manipulation. Adept at Python and fundamental data structures/algorithms. Committed to delivering engaging user experiences, eager to leverage skills in an internship role.</p>
