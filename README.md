@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b2kumar03&label=Profile%20views&color=0e75b6&style=flat" alt="b2kumar03" /> </p>
 
-- 🌱 I’m currently learning **FrontEnd,Dom,Fetch Data etc**
+- 🌱 I’m currently learning **Back-end node js ,HTTP ,Express etc**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github]([github](https://github.com/B2Kumar03?tab=repositories))
 
 - 📫 How to reach me **bk7355583@gmail.com**
 
