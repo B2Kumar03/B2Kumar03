@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b2kumar03&label=Profile%20views&color=0e75b6&style=flat" alt="b2kumar03" /> </p>
 
-- 🌱 I’m currently learning **Backend Node.js, HTTP, Express, etc.**
+- 🌱 I’m currently learning ** webRTC, SQL, socket.io**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/B2Kumar03?tab=repositories)
 
