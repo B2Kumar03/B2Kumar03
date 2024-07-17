@@ -2,7 +2,7 @@
 
 <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="coding" width="400" align="right">
 <h1 align="center">Hi 👋, I'm Bittu</h1>
-<p align="left">Diligent frontend developer with robust HTML, CSS, JavaScript, and React expertise. Proficient in Git and DOM manipulation. Adept at Python and fundamental Data Structures/algorithms. Committed to delivering engaging user experiences, eager to leverage skills in an internship role.</p>
+<p align="left">Diligent MERN Stack Developer with robust expertise in MongoDB, Express.js, React, and Node.js. Proficient in HTML, CSS, and JavaScript with a strong command of Git and DOM manipulation. Adept at Python and Advanced Data Structures.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b2kumar03&label=Profile%20views&color=0e75b6&style=flat" alt="b2kumar03" /> </p>
 
