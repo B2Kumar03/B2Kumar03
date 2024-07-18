@@ -1,4 +1,6 @@
-![logo](https://github.com/B2Kumar03/project2Image/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20(2).png?raw=true)
+![logo](https://github.com/B2Kumar03/project2Image/blob/main/banner.png?raw=true)
+
+https://github.com/B2Kumar03/project2Image/blob/main/banner.png?raw=true
 
 <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" alt="coding" width="400" align="right">
 <h1 align="center">Hi 👋, I'm Bittu</h1>
