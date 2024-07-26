@@ -10,7 +10,7 @@
 
 - 🎨 Hobbies: Coding, reading, and problem solving.
 
-- 🌱 I’m currently learning ** webRTC, SQL, socket.io**
+- 🌱 I’m currently learning ** webRTC, SQL, socket.io Nextjs**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/B2Kumar03?tab=repositories)
 
