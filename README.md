@@ -10,8 +10,6 @@
 
 - 🎨 Hobbies: Coding, reading, and problem solving.
 
-- 🌱 I’m currently learning ** AI/ML**
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/B2Kumar03?tab=repositories)
 
 - 📫 How to reach me: *bk7355583@gmail.com*
